@@ -70,7 +70,7 @@ A structured system I created to help clients turn a single idea into a working 
 If you're looking for someone who can actually *build* with AI — not just talk about it — I’d love to connect.
 
 **📧 Email:** mr_nice_guy446@yahoo.com  
-**🌎 Portfolio:** *Coming soon (hosted via GitHub Pages)*  
+**🌎 Portfolio:**[ *(https://blood446-spec.github.io/chad-portfolio/)*  
 
 ---
 
